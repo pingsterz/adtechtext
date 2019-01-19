@@ -1,0 +1,7 @@
+Flask==0.12
+numpy
+requests
+bs4
+pandas
+nltk
+google-cloud-language
